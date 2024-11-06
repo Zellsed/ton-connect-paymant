@@ -1,0 +1,14 @@
+.type {
+  margin-top: 10px;
+  background-color: #f1f1f1;
+  color: black;
+  padding: 20px;
+  border-radius: 15px;
+  height: 260px;
+  max-width: 500px;
+  border: 1px solid #ccc;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  overflow-y: auto;
+}
